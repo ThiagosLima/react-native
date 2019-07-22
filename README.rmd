@@ -1,0 +1,3 @@
+Adicione seu endereço de IP no .env
+
+rode docker-compose up
